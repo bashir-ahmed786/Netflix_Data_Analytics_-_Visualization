@@ -25,7 +25,7 @@ The aim is to uncover insights into content distribution, genres, ratings, and t
 - Numpy
 - Matplotlib
 - Seaborn
-- Plotly (optional)
+- Plotly 
 
 ---
 
