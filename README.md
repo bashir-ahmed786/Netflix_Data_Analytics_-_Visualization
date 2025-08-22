@@ -47,5 +47,5 @@ You can view the Jupyter Notebook here:
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/bashir-ahmed786/Netflix-Data-Analytics.git
+   git clone [https://github.com/bashir-ahmed786/Netflix-Data-Analytics.git](https://github.com/bashir-ahmed786/Netflix_Data_Analytics_-_Visualization.git)
 
