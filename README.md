@@ -31,7 +31,7 @@ The aim is to uncover insights into content distribution, genres, ratings, and t
 
 ## 📎 Notebook
 You can view the Jupyter Notebook here:  
-👉 [Netflix Data Analysis Notebook (nbviewer)](PASTE_YOUR_NBVIEWER_LINK_HERE)
+👉 [Netflix Data Analysis Notebook (nbviewer)](https://nbviewer.org/github/bashir-ahmed786/Netflix_Data_Analytics_-_Visualization/blob/main/Netflix%20Data%20Analysis%20%26%20Visualization.ipynb))
 
 ---
 
