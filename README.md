@@ -57,7 +57,6 @@ You can view the Jupyter Notebook here:
    `[https://github.com/your-username/Netflix-Data-Analytics/blob/main/Netflix_Data_Analysis.ipynb](https://github.com/bashir-ahmed786/Netflix_Data_Analytics_-_Visualization.git)`  
 2. Go to [nbviewer](https://nbviewer.org/).  
 3. Paste the URL → It will give a **clean shareable notebook link**.  
-4. Replace the `PASTE_YOUR_NBVIEWER_LINK_HERE` in README with that link.  
 
 ---
 
