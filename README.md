@@ -51,12 +51,11 @@ You can view the Jupyter Notebook here:
 
 ---
 
-# 🟢 Step 4: Generate a Viewer Link
-1. Copy your GitHub notebook URL.  
-   Example:  
-   `[https://github.com/your-username/Netflix-Data-Analytics/blob/main/Netflix_Data_Analysis.ipynb](https://github.com/bashir-ahmed786/Netflix_Data_Analytics_-_Visualization.git)`  
-2. Go to [nbviewer](https://nbviewer.org/).  
-3. Paste the URL → It will give a **clean shareable notebook link**.  
+## 🔗 Connect Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bashir-ahmed-718a742aa/)
+- 📧 [Email Me](bashirahmedhfz687@gmail.com)
+
 
 ---
 
