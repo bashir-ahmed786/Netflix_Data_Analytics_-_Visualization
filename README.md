@@ -53,8 +53,9 @@ You can view the Jupyter Notebook here:
 
 ## 🔗 Connect Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bashir-ahmed-718a742aa/)
-- 📧 [Email Me](bashirahmedhfz687@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/bashir-ahmed-718a742aa/))
+- 📧 [Email Me](mailto:yourname@example.com)
+
 
 
 ---
